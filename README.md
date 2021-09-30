@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Bienvenido al University Innovation Summit 2021</h1>
 <h3 align="center">En este espacio podrán agregar todos los entregables de la 1era. edición del Hackathon NTT DATA CHALLENGE 2021</h3>
 
-- 👯 I’m looking to collaborate on [sdfds](https://universityinnovationsummit.com/)
+- I’m looking to collaborate on (https://universityinnovationsummit.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
