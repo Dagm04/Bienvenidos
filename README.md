@@ -1,7 +1,20 @@
 <h1 align="center">¡Hola! Bienvenido al University Innovation Summit 2021</h1>
 <h3 align="center">En este espacio podrán agregar todos los entregables de la 1era. edición del Hackathon NTT DATA CHALLENGE 2021</h3>
 
-- I’m looking to collaborate on (https://universityinnovationsummit.com/)
+Entregables:
+• Video resumen
+  o Breve presentación del equipo.
+  o Resumen del concepto de solución (Qué hace y a quién impacta)
+  o Prototipo de la solución (mockup)
+  Para el video Github no les permitirá cargarlo acá por limitaciones de espacio, deben alojarlo en cualquier nube y compartir acá el enlace para poder ser validado. 
+• Código del prototipo en el repositorio asignado a cada equipo.
+• Diagrama de Arquitectura.
+
+Cada líder de equipo tendrá acceso al repositorio del equipo, en caso de requerir algún acceso adicional debe ser notificado a los mentores a través de Discord.
+
+
+- Acá podrán seguir las conferencias (https://universityinnovationsummit.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
