@@ -2,15 +2,15 @@
 <h3 align="center">En este espacio podrán agregar todos los entregables de la 1era. edición del Hackathon NTT DATA CHALLENGE 2021</h3>
 
 <h4>Entregables:</h4>
-<h4>• Video resumen</h4>
+<h4>📝 Video resumen</h4>
 <h4>    o Breve presentación del equipo.</h4>
 <h4>    o Resumen del concepto de solución (Qué hace y a quién impacta)</h4>
 <h4>    o Prototipo de la solución (mockup)</h4>
 <h4>  Para el video Github no les permitirá cargarlo acá por limitaciones de espacio, deben alojarlo en cualquier nube y compartir acá el enlace para poder ser validado. </h4>
-<h4>• Código del prototipo en el repositorio asignado a cada equipo.</h4>
-<h4>• Diagrama de Arquitectura.</h4>
+<h4>📝 Código del prototipo en el repositorio asignado a cada equipo.</h4>
+<h4>📝 Diagrama de Arquitectura.</h4>
 
-<h4>Cada líder de equipo tendrá acceso al repositorio del equipo, en caso de requerir algún acceso adicional debe ser notificado a los mentores a través de Discord.</h4>
+<h4>  💬 Cada líder de equipo tendrá acceso al repositorio del equipo, en caso de requerir algún acceso adicional debe ser notificado a los mentores a través de Discord.</h4>
 
 
 <h4>- Acá podrán seguir las conferencias (https://universityinnovationsummit.com/)</h4>
